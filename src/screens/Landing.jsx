@@ -3,6 +3,7 @@ import Navbar from "../components/Navbaar"
 import { Toaster } from "sonner"
 import Footer from "../components/Footer"
 import Renthouse from '@/components/Renthouse'
+import Buyhouse from '@/components/Buyhouse'
 
 const Landing = () => {
     return (
@@ -11,6 +12,7 @@ const Landing = () => {
         <main className="min-h-screen">
           <Navbar />
          <Renthouse/>
+         <Buyhouse/>
           <Footer/>
         </main>
       </>
