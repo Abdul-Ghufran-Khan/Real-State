@@ -33,7 +33,7 @@ const Renthouse = () => {
     const houses = [
       {
         image: "https://i.pinimg.com/474x/0b/06/c4/0b06c4a42c2d66d765e94bc268981d5c.jpg",
-        price: "$250,00",
+        price: "$50,00",
         beds: 3,
         baths: 2,
         sqft: 1800,
@@ -41,7 +41,7 @@ const Renthouse = () => {
       },
       {
         image: "https://i.pinimg.com/474x/95/8f/1d/958f1da47a87363d203b048bee3b48f4.jpg",
-        price: "$320,00",
+        price: "$54,00",
         beds: 4,
         baths: 3,
         sqft: 2200,
@@ -49,7 +49,7 @@ const Renthouse = () => {
       },
       {
         image: "https://i.pinimg.com/736x/42/19/f9/4219f9548b8b61162e34dd99638ae04c.jpg",
-        price: "$150,00",
+        price: "$320,00",
         beds: 2,
         baths: 1,
         sqft: 1200,
@@ -65,7 +65,7 @@ const Renthouse = () => {
       },
       {
         image: "https://i.pinimg.com/236x/1e/97/3b/1e973bde8c7ddd94cc1b7e4e3ce3135a.jpg",
-        price: "$600,00",
+        price: "$60,00",
         beds: 6,
         baths: 5,
         sqft: 4000,
@@ -73,7 +73,7 @@ const Renthouse = () => {
       },
       {
         image: "https://i.pinimg.com/474x/49/c8/93/49c8930905de59661305414c9810c5de.jpg",
-        price: "$700,00",
+        price: "$260,00",
         beds: 5,
         baths: 4,
         sqft: 3500,
