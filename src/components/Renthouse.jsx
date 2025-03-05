@@ -137,7 +137,7 @@ const Renthouse = () => {
 
 
             {/* Placeholder for page content */}
-            <h1 className="mt-16 text-3xl font-bold">Most Demanding Villa For Rent</h1>
+            <h1 className="mt-1 text-3xl font-bold">Most Demanding Villa For Rent</h1>
             <div className="mt-6 grid gap-8 md:grid-cols-3">
                 {houses.map((item, index) => (
                     <div key={index} className="rounded-lg border p-4 shadow-sm">
