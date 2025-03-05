@@ -110,7 +110,7 @@ const BuyHouse = () => {
 
   return (
     <div className="container mx-auto px-4 py-2">
-      <h1 className="mt-16 text-3xl font-bold">Premium Properties For Sale</h1>
+      <h1 className="mt-14 text-3xl font-bold">Premium Properties For Sale</h1>
       <div className="mt-6 grid gap-8 md:grid-cols-3">
         {houses.map((item, index) => (
           <div key={index} className="rounded-lg border bg-card p-4 shadow-sm transition-all hover:shadow-md">
